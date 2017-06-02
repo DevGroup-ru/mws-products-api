@@ -1,0 +1,25 @@
+{
+  "name": "devgroup/mws-products-api",
+  "description": "Amazon MWS Products API with Composer integration",
+  "keywords": [
+    "amazon",
+    "mws",
+    "api",
+    "product"
+  ],
+  "license": "GNU3",
+  "authors": [
+    {
+      "name": "Alexander Kozhevnikov",
+      "email": "b37hr3z3n@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
